@@ -1,0 +1,22 @@
+2025-06-19 01:32:14,& C:/Users/georg/AppData/Local/Programs/Python/Python313/python.exe c:/Users/georg/OneDrive/Desktop/desertation/app/rag_chatbot.py," It seems you are asking for information related to the management of Type 2 diabetes, diabetic foot problems, and chronic kidney disease based on NHS guidelines.
+
+1. Diabetic Foot Problems: For guidance on preventing and managing foot problems in adults with type 2 diabetes, refer to the NICE guideline on diabetic foot problems. (Source: Type 2 diabetes in adults: management (NG28) - Diabetic foot problems - 2015)
+
+2. Type 2 diabetes management: For more information about managing Type 2 diabetes, consult the NICE guideline on Type 2 diabetes in adults: management (NG28).
+
+3. Chronic Kidney Disease: For guidance on adults with chronic kidney disease, refer to the relevant sections in the NICE guidelines. The information is spread across multiple guidelines, so it's best to search for ""Chronic Kidney Disease"" on the NICE website to gather all related resources. (Source: Type 2 diabetes in adults: management (NG28) - Chronic kidney disease - 2015)
+
+Regarding your question about abnormal sweating or nocturnal diarrhea, please note that the provided guidance does not directly address this issue specifically for Type 2 diabetes. However, it's essential to discuss any unusual symptoms with a healthcare professional for proper evaluation and management. (Source: Type 2 diabetes in adults: management (NG28) - Manifestations - 2009)",🟢 GREEN – Safe,"nhs_guidance.txt: ............................................................................................................... 50 SGLT2 inhibitors for adults with ty | 2.txt: ................................................................................................................ 31 Relaxation therapies ............. | nhs_guidance.txt: d by the manifestations (for example, for abnormal sweating or nocturnal diarrhoea). [2009] © NICE 2025. All rights reserved. Subject to Notice of rig"
+2025-06-19 01:35:44,What foods should I avoid with type 2 diabetes," With Type 2 diabetes, it is advisable to avoid or limit the following types of food:
+
+1. Foods high in saturated and trans fats, such as butter, lard, cream, hard cheeses, pastries, biscuits, cakes, sausages, and fatty cuts of meat.
+
+2. High-sugar foods and drinks, including sweets, desserts, sugar-sweetened beverages, and candies. Instead, opt for low-fat dairy products and fresh fruits when wanting something sweet.
+
+3. Processed and packaged foods, as they often contain high levels of added sugars, sodium, and unhealthy fats.
+
+4. Refined grains like white bread, pasta, and rice, which have a high glycemic index and can cause rapid spikes in blood sugar levels. Choose whole grains instead.
+
+5. Foods with added salt, as people with diabetes are at an increased risk of developing hypertension. Try to reduce your sodium intake by preparing meals at home using fresh ingredients.
+
+6. Alcohol should be consumed in moderation, as it can lead to weight gain and affect blood sugar control. If you choose to drink alcohol, limit your intake to no more than one or two drinks per day.",🟠 AMBER – Possibly correct but unverified,"nhs_guidance.txt: ] 1.3.3 Encourage adults with type 2 diabetes to follow the same healthy eating advice as the general population, which includes: • eating high-fibre, | nhs_guidance.txt: with type 2 diabetes, think about and discuss the following with the person: • how to optimise their current treatment regimen before thinking about c | nhs_guidance.txt: ing insulin or an insulin secretagogue. [2009] 1.3.7 Advise adults with type 2 diabetes that they can substitute a limited amount of © NICE 2025. All "
